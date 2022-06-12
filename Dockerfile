@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.14.0
 MAINTAINER yaoyao-cake
 
 ARG PHP_VIRTUAL_BOX_RELEASE=develop
